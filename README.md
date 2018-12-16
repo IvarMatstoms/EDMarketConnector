@@ -1,4 +1,5 @@
 [![Discord chat](https://img.shields.io/discord/164411426939600896.svg?style=social&label=Discord%20chat)](https://discord.gg/usQ5e6n)
+# Fork trying to fix new api update
 
 Elite: Dangerous Market Connector (EDMC)
 ========
